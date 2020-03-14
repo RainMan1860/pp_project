@@ -110,3 +110,4 @@ This is project information  for 2020 spring course software engineering
 42/芜湖，起飞  杨琛 (https://www.cnblogs.com/yc123/)  张建生(https://www.cnblogs.com/zjs123/)   四则运算  https://github.com/yangchen-6/test
 
 43/一giao我里giao   丁磊（https://www.cnblogs.com/dinglei918/）  王旭（https://www.cnblogs.com/qw123456/）  生命游戏  https://github.com/runman33/my-travel-plans/new/master
+44/。             王荡（https://www.cnblogs.com/paxifa/）   季兴元（https://www.cnblogs.com/jixingyuan/）  生命游戏 https://github.com/paxifaer/pp_project
