@@ -3,4 +3,4 @@
 序号/队名      组员名1/博客地址 1                            组员信息2/博客地址2                             课题名称（ 项目仓库地址 ）
 2 /第五组  张静（https://www.cnblogs.com/Incoming22/） 李宏丽（https://www.cnblogs.com/lhl2z/） 生命游戏 https://github.com/xxx-y/life-game
 1 /结对编程初试T  滕磊（https://www.cnblogs.com/lianse/）  谢林林（https://www.cnblogs.com/xielinlin/）    四则运算 https://github.com/rezero0523/sizeyunsuan_jiedui  
-3 /。        王荡（https://www.cnblogs.com/pxfa/）         季兴元（https://www.cnblogs.com/jixingyuan/）     生命游戏 https://github.com/paxifaer/pp_project
+3 /。             王荡（https://www.cnblogs.com/paxifa/）   季兴元（https://www.cnblogs.com/jixingyuan/p/12398964.html）  生命游戏 https://github.com/paxifaer/pp_project
