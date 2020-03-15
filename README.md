@@ -109,6 +109,25 @@ This is project information  for 2020 spring course software engineering
 
 42/芜湖，起飞  杨琛 (https://www.cnblogs.com/yc123/)  张建生(https://www.cnblogs.com/zjs123/)   四则运算  https://github.com/yangchen-6/test
 
+<<<<<<< HEAD
 43/一giao我里giao   丁磊（https://www.cnblogs.com/dinglei918/）  王旭（https://www.cnblogs.com/qw123456/）  生命游戏  https://github.com/runman33/my-travel-plans/new/master
 
 44/Su-Sheng   盛静远（https://www.cnblogs.com/shengjingyuan/）  苏巧玲（https://www.cnblogs.com/SQL666/） 四则运算 https://github.com/Shengjingyuan/Su-Sheng-travel-plans
+||||||| 0d07c76
+43/一giao我里giao   丁磊（https://www.cnblogs.com/dinglei918/）  王旭（https://www.cnblogs.com/qw123456/）  生命游戏  https://github.com/runman33/my-travel-plans/new/master
+=======
+
+43/拉登是我干掉的    丁磊（https://www.cnblogs.com/dinglei918/）  王旭（https://www.cnblogs.com/qw123456/）  生命游戏  https://github.com/runman33/my-travel-plans/new/master
+
+44/真为你的智商捉鸡    刘继海（https://www.cnblogs.com/jingxinerwei/）  曹合欢（https://home.cnblogs.com/u/chh1012）  四则运算  https://github.com/caohehuan/Test
+
+45/玄图队  叶文庆 （https://www.cnblogs.com/YWQLCc/ ）   朱焕斌（https://www.cnblogs.com/oqmyga/  ）  四则运算  
+（https://github.com/Y-W-Q/sizeyunsuan ）
+
+46/句号             王荡（https://www.cnblogs.com/paxifa/）   季兴元（https://www.cnblogs.com/jixingyuan/）  生命游戏 https://github.com/paxifaer/pp_project
+
+/犹如幻翳 郭建琛（https://www.cnblogs.com/1772035039gjc/） 彭功伟（https://www.cnblogs.com/penggongwei/）四则运算 https://github.com/1772035039/-.git
+
+>>>>>>> 0af3a8fbdad84574cafc70818b78b521fd407de4
+
+47/Su-Sheng 盛静远（https://www.cnblogs.com/shengjingyuan/） 苏巧玲（https://www.cnblogs.com/SQL666/） 四则运算 https://github.com/Shengjingyuan/Su-Sheng-travel-plans.git
