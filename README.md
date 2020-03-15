@@ -114,8 +114,8 @@ This is project information  for 2020 spring course software engineering
 
 44/真为你的智商捉鸡    刘继海（https://www.cnblogs.com/jingxinerwei/）  曹合欢（https://home.cnblogs.com/u/chh1012）  四则运算  https://github.com/caohehuan/Test
 
-45/汪汪队  叶文庆（https://www.cnblogs.com/YWQLCc/）  朱焕斌（https://www.cnblogs.com/oqmyga/）  四则运算  
-（https://github.com/Y-W-Q/sizeyunsuan）
+45/玄图队  叶文庆 （https://www.cnblogs.com/YWQLCc/ ）   朱焕斌（https://www.cnblogs.com/oqmyga/  ）  四则运算  
+（https://github.com/Y-W-Q/sizeyunsuan ）
 
 46/句号             王荡（https://www.cnblogs.com/paxifa/）   季兴元（https://www.cnblogs.com/jixingyuan/）  生命游戏 https://github.com/paxifaer/pp_project
 
