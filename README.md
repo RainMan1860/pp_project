@@ -110,7 +110,7 @@ This is project information  for 2020 spring course software engineering
 42/芜湖，起飞  杨琛 (https://www.cnblogs.com/yc123/)  张建生(https://www.cnblogs.com/zjs123/)   四则运算  https://github.com/yangchen-6/test
 
 
-43/拉登是我干掉的   丁磊（https://www.cnblogs.com/dinglei918/）  王旭（https://www.cnblogs.com/qw123456/）  生命游戏  https://github.com/runman33/my-travel-plans/new/master
+43/拉登是我干掉的    丁磊（https://www.cnblogs.com/dinglei918/）  王旭（https://www.cnblogs.com/qw123456/）  生命游戏  https://github.com/runman33/my-travel-plans/new/master
 
 44/真为你的智商捉鸡    刘继海（https://www.cnblogs.com/jingxinerwei/）  曹合欢（https://home.cnblogs.com/u/chh1012）  四则运算  https://github.com/caohehuan/Test
 
