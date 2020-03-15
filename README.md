@@ -20,13 +20,6 @@ This is project information  for 2020 spring course software engineering
 
 3 /代码敲不队   王锦（https://www.cnblogs.com/wjin/） 张子毓（https://www.cnblogs.com/lingluan23333/）  四则运算 https://github.com/Wjinfiny/daimaqiaobu
 
-4 /第25组  张广胜(https://www.cnblogs.com/ZGS20000129/) 阮博(https://www.cnblogs.com/nmrsj/)  生命游戏  https://github.com/3170701118/-.git
-
-5 /第88组  何家乐(https://www.cnblogs.com/aaalua999/) 任鑫(https://www.cnblogs.com/19990302rx/)  生命游戏  https://github.com/Aaalua/LifeGame
-
-4 /第25组  张广胜(https://www.cnblogs.com/ZGS20000129/) 阮博(https://www.cnblogs.com/nmrsj/)  生命游戏  https://github.com/3170701118/-.git
-
-5 /第88组  何家乐(https://www.cnblogs.com/aaalua999/) 任鑫(https://www.cnblogs.com/19990302rx/)  生命游戏  https://github.com/Aaalua/LifeGame
 
 4 /全部做队  张广胜(https://www.cnblogs.com/ZGS20000129/) 阮博(https://www.cnblogs.com/nmrsj/)  生命游戏  https://github.com/3170701118/-.git
 
