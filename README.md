@@ -1,4 +1,4 @@
-# pp_project
+﻿# pp_project
 This is project information  for 2020 spring course software engineering 
 
 
@@ -121,8 +121,13 @@ This is project information  for 2020 spring course software engineering
 48/Su-Sheng 盛静远（https://www.cnblogs.com/shengjingyuan/） 苏巧玲（https://www.cnblogs.com/SQL666/） 四则运算 https://github.com/Shengjingyuan/Su-Sheng-travel-plans.git
 
 
-49/czqdad队 董纬  （https://www.cnblogs.com/dongwei123/）   彭小炜（https://www.cnblogs.com/zxtzszyz/）  四则运算 https://github.com/pxw3170701339/pp_project.git
+49/霸王双轮 孙浩（https://www.cnblogs.com/saitamawdnmd/） 江兴（https://www.cnblogs.com/Jiangxing123/） 四则运算
+https://github.com/saitama1999/pp_project.git
 
-50/teamwe  亓帅（https://home.cnblogs.com/u/1946568/） 王旭（https://www.cnblogs.com/wxqaq/） 四则运算
+
+50/czqdad队 董纬  （https://www.cnblogs.com/dongwei123/）   彭小炜（https://www.cnblogs.com/zxtzszyz/）  四则运算 https://github.com/pxw3170701339/pp_project.git
+
+5/teamwe  亓帅（https://home.cnblogs.com/u/1946568/） 王旭（https://www.cnblogs.com/wxqaq/） 四则运算
 https://github.com/3170701304wx/sizeyunsuan
+
 
