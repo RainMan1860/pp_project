@@ -121,6 +121,7 @@ This is project information  for 2020 spring course software engineering
 48/Su-Sheng 盛静远（https://www.cnblogs.com/shengjingyuan/） 苏巧玲（https://www.cnblogs.com/SQL666/） 四则运算 https://github.com/Shengjingyuan/Su-Sheng-travel-plans.git
 
 
+
 49/Freunde 纪超超 （https://www.cnblogs.com/aspic/）   刘莹 （https://www.cnblogs.com/lldkla/）    生命游戏   https://github.com/DKLA5/software-test.git
 
 
