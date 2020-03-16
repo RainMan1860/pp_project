@@ -121,7 +121,7 @@ This is project information  for 2020 spring course software engineering
 48/Su-Sheng 盛静远（https://www.cnblogs.com/shengjingyuan/） 苏巧玲（https://www.cnblogs.com/SQL666/） 四则运算 https://github.com/Shengjingyuan/Su-Sheng-travel-plans.git
 
 
-49/霸王双轮 孙浩（https://www.cnblogs.com/saitamawdnmd/） 江兴（https://www.cnblogs.com/Jiangxing123/） 四则运算
+49/霸王双轮 孙浩（https://www.cnblogs.com/saitamawdnmd/） 江兴（https://www.cnblogs.com/Jiangxing123/） 韦重峰（https://home.cnblogs.com/u/wei742840626/） 四则运算
 https://github.com/saitama1999/pp_project.git
 
 
