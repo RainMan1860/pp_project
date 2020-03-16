@@ -119,3 +119,6 @@ This is project information  for 2020 spring course software engineering
 
 
 48/Su-Sheng 盛静远（https://www.cnblogs.com/shengjingyuan/） 苏巧玲（https://www.cnblogs.com/SQL666/） 四则运算 https://github.com/Shengjingyuan/Su-Sheng-travel-plans.git
+
+49/teamwe  亓帅（https://home.cnblogs.com/u/1946568/） 王旭（https://www.cnblogs.com/wxqaq/） 四则运算
+https://github.com/3170701304wx/sizeyunsuan
