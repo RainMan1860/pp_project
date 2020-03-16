@@ -1,4 +1,4 @@
-# pp_project
+﻿# pp_project
 This is project information  for 2020 spring course software engineering 
 
 
@@ -20,13 +20,6 @@ This is project information  for 2020 spring course software engineering
 
 3 /代码敲不队   王锦（https://www.cnblogs.com/wjin/） 张子毓（https://www.cnblogs.com/lingluan23333/）  四则运算 https://github.com/Wjinfiny/daimaqiaobu
 
-4 /第25组  张广胜(https://www.cnblogs.com/ZGS20000129/) 阮博(https://www.cnblogs.com/nmrsj/)  生命游戏  https://github.com/3170701118/-.git
-
-5 /第88组  何家乐(https://www.cnblogs.com/aaalua999/) 任鑫(https://www.cnblogs.com/19990302rx/)  生命游戏  https://github.com/Aaalua/LifeGame
-
-4 /第25组  张广胜(https://www.cnblogs.com/ZGS20000129/) 阮博(https://www.cnblogs.com/nmrsj/)  生命游戏  https://github.com/3170701118/-.git
-
-5 /第88组  何家乐(https://www.cnblogs.com/aaalua999/) 任鑫(https://www.cnblogs.com/19990302rx/)  生命游戏  https://github.com/Aaalua/LifeGame
 
 4 /全部做队  张广胜(https://www.cnblogs.com/ZGS20000129/) 阮博(https://www.cnblogs.com/nmrsj/)  生命游戏  https://github.com/3170701118/-.git
 
@@ -127,4 +120,16 @@ This is project information  for 2020 spring course software engineering
 
 48/Su-Sheng 盛静远（https://www.cnblogs.com/shengjingyuan/） 苏巧玲（https://www.cnblogs.com/SQL666/） 四则运算 https://github.com/Shengjingyuan/Su-Sheng-travel-plans.git
 
+
 49/Freunde 纪超超 （https://www.cnblogs.com/aspic/）   刘莹 （https://www.cnblogs.com/lldkla/）    生命游戏   https://github.com/DKLA5/software-test.git
+
+
+50/霸王双轮 孙浩（https://www.cnblogs.com/saitamawdnmd/） 江兴（https://www.cnblogs.com/Jiangxing123/） 四则运算
+https://github.com/saitama1999/pp_project.git
+
+
+51/czqdad队 董纬  （https://www.cnblogs.com/dongwei123/）   彭小炜（https://www.cnblogs.com/zxtzszyz/）  四则运算 https://github.com/pxw3170701339/pp_project.git
+
+52/teamwe  亓帅（https://home.cnblogs.com/u/1946568/） 王旭（https://www.cnblogs.com/wxqaq/） 四则运算
+https://github.com/3170701304wx/sizeyunsuan
+
