@@ -136,5 +136,6 @@ https://github.com/3170701304wx/sizeyunsuan
 
 53/潘小哥  潘梅情（https://www.cnblogs.com/womingbai/） 程焰（https://www.cnblogs.com/32036et/） 生命游戏
 https://github.com/cyszz/my-travel-plans
-贺志豪 （https://www.cnblogs.com/hdksjfsk/）  罗小龙（https://www.cnblogs.com/lxl961103/）四则运算
+
+54/贺志豪 （https://www.cnblogs.com/hdksjfsk/）  罗小龙（https://www.cnblogs.com/lxl961103/）四则运算
 https://github.com/zhihao-he/my-travel-plans
