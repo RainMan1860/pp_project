@@ -137,11 +137,25 @@ https://github.com/3170701304wx/sizeyunsuan
 53/潘小哥  潘梅情 https://www.cnblogs.com/womingbai/  程焰 https://www.cnblogs.com/32036et/  生命游戏
 https://github.com/cyszz/my-travel-plans
 
+
 54/xyz队   左嘉薇 https://www.cnblogs.com/zybfdblog/   肖月 https://www.cnblogs.com/xy1229/  生命游戏  https://github.com/dss-nnh/my-travel-plans
 
 55/aa队 高双龙 https://www.cnblogs.com/gaolight/    谢仲 https://www.cnblogs.com/xie-zhong/ 生命游戏
 https://github.com/Deep311/CellGame.git
 
-60/zz队 周光宏 https://www.cnblogs.com/zgh083417/  周阳  https://www.cnblogs.com/0516zy/
+
+56/hl队 贺志豪 https://www.cnblogs.com/hdksjfsk/  罗小龙 https://www.cnblogs.com/lxl961103/ 四则运算
 https://github.com/zghzy123456789/my-travel-plans
 
+57/LAKERS队 程祥https://www.cnblogs.com/cheng123-/ 陆虎 https://www.cnblogs.com/luhu/ 生命游戏
+https://github.com/cheng-xiang-star/cheng.git
+
+58/江苏电视台 方振响 https://www.cnblogs.com/fangzhenxiang/  王宁 https://home.cnblogs.com/u/wangningshark/ 四则运算
+https://github.com/bigApple00/four-types-compute
+
+59/周大仙的小乐天 周宗逸（https://www.cnblogs.com/zzynb/） 周乐天（https://www.cnblogs.com/alanandpython/p/12545811.html） 
+四则运算（https://github.com/zhoudashuaibi/my-travel-plans）
+
+
+60/zz队 周光宏 https://www.cnblogs.com/zgh083417/  周阳  https://www.cnblogs.com/0516zy/
+https://github.com/zghzy123456789/my-travel-plans
