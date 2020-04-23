@@ -66,7 +66,7 @@ This is project information  for 2020 spring course software engineering
 
 25 /结对编程 郭帆 https://www.cnblogs.com/ziyanxingchen/  徐思宇 https://www.cnblogs.com/Dxsy/  生命游戏https://github.com/ziyanxingchen/Game-of-Life
 
-26/奔波儿灞灞波儿奔  杜蒙蒙 https://www.cnblogs.com/qingmuling/      杜家云 https://www.cnblogs.com/cloudyyy/  生命游戏  https://github.com/qingmuling/my-travel-plans
+26/奔波儿灞灞波儿奔  杜蒙蒙 https://www.cnblogs.com/qingmuling/      杜家云 https://www.cnblogs.com/cloudyyy/  生命游戏  https://github.com/cloudy-y/game_of_life
 
 27 /WYZ   王慧 https://www.cnblogs.com/1234wh/       叶啟文 https://www.cnblogs.com/yqw0710/           生命游戏https://github.com/yqw0710/wyzproject
 
