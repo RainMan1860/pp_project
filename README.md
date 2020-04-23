@@ -54,7 +54,7 @@ This is project information  for 2020 spring course software engineering
 
 19 /银河战舰  吴雨亭  https://www.cnblogs.com/wuyuting/  李光辉 https://www.https://www.cnblogs.com/Liovee/  生命游戏 https://github.com/Liovee/life-game-
 
-20 /WxWz 王旭 https://www.cnblogs.com/014wangxu/  王振 https://www.cnblogs.com/wshu221/  四则运算 https://www.gitHub.com/jdbcsy/sy2
+20 /WxWz 王旭 https://www.cnblogs.com/014wangxu/  王振 https://www.cnblogs.com/wshu221/  四则运算 https://github.com/jdbcsy/yunsuan
 
 21/L$Y      吕亚楠 https://www.cnblogs.com/duoroubenben/  欧阳楠楠 https://www.cnblogs.com/ououou/     四则运算  https://github.com/ouou-hub/my-travel-plans.git
 
