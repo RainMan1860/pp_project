@@ -64,7 +64,7 @@ This is project information  for 2020 spring course software engineering
 
 24/有福同享有难退群 李伟 https://www.cnblogs.com/lw484014130/  李相杰 https://www.cnblogs.com/Hypocrise/  四则运算 https://github.com/lw484014130/my-travel-plans.git
 
-25 /结对编程 郭帆 https://www.cnblogs.com/ziyanxingchen/  徐思宇 https://www.cnblogs.com/Dxsy/  生命游戏https://github.com/ziyanxingchen/Game-of-Life
+25 /结对编程 郭帆 https://www.cnblogs.com/ziyanxingchen/  徐思宇 https://www.cnblogs.com/Dxsy/  生命游戏https://github.com/ziyanxingchen/Life-of-Game
 
 26/奔波儿灞灞波儿奔  杜蒙蒙 https://www.cnblogs.com/qingmuling/      杜家云 https://www.cnblogs.com/cloudyyy/  生命游戏  https://github.com/qingmuling/my-travel-plans
 
