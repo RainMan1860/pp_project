@@ -83,7 +83,7 @@ This is project information  for 2020 spring course software engineering
 
 33/哲学边界   曹源 https://www.cnblogs.com/zhiless/ 王鑫煜 https://www.cnblogs.com/99xinyu/   四则运算 https://github.com/yuanyuan0931/homeworkillers
 
-34/clwys    陈莉 https://www.cnblogs.com/clwys/  吴宇森 https://www.cnblogs.com/wyscl/   四则运算 https://github.com/CL129/pp_project.git
+34/clwys    陈莉 https://www.cnblogs.com/clwys/  吴宇森 https://www.cnblogs.com/wyscl/   四则运算 https://github.com/CL129/my-travel-plans.git
 
 36/猕hotel   刘元元 https://www.cnblogs.com/321ending/    孙习雅 https://www.cnblogs.com/sxyfzq/   四则运算  https://github.com/end57/my-nihotel-plans
 
