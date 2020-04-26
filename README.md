@@ -48,7 +48,7 @@ This is project information  for 2020 spring course software engineering
 
 16 /结队实验对a 罗皖瑞 https://www.cnblogs.com/pass/ 盛宁 https://www.cnblogs.com/shengning/ 四则运算 https://github.com/2994226544/exm
 
-17 /古德  李桃利 https://home.cnblogs.com/u/Torryli/   王怡 https://www.cnblogs.com/wendy980514/  生命游戏 https://github.com/Wendy980514/torry-wendy-arithmetic.git
+17 /古德  李桃利 https://home.cnblogs.com/u/Torryli/   王怡 https://www.cnblogs.com/wendy980514/  生命游戏 生命游戏 https://github.com/lili-li1/practice
 
 18 /老师说的都队  曹灿  https://www.cnblogs.com/cctv-cc/   夏晓峰  https://www.cnblogs.com/xiaofeng338/   生命游戏 https://github.com/154678794/lifeGame
 
