@@ -141,7 +141,7 @@ https://github.com/cyszz/my-travel-plans
 54/xyz队   左嘉薇 https://www.cnblogs.com/zybfdblog/   肖月 https://www.cnblogs.com/xy1229/  生命游戏  https://github.com/dss-nnh/my-travel-plans
 
 55/aa队 高双龙 https://www.cnblogs.com/gaolight/    谢仲 https://www.cnblogs.com/xie-zhong/ 生命游戏
-https://github.com/Deep311/CellGame.git
+https://github.com/Deep311/CellGame.git  2020.4.26 xiuyu check 仓库为空
 
 
 56/hl队 贺志豪 https://www.cnblogs.com/hdksjfsk/  罗小龙 https://www.cnblogs.com/lxl961103/ 四则运算
