@@ -154,7 +154,7 @@ https://github.com/cheng-xiang-star/cheng.git
 https://github.com/bigApple00/four-types-compute
 
 59/周大仙的小乐天 周宗逸（https://www.cnblogs.com/zzynb/） 周乐天（https://www.cnblogs.com/alanandpython/p/12545811.html） 
-四则运算（https://github.com/zhoudashuaibi/my-travel-plans）
+四则运算（https://github.com/zhoudashuaibi/my-travel-plans ） xiuyu 2020.4.26 check ，仓库里面放的是可执行程序，没有源代码
 
 
 60/zz队 周光宏 https://www.cnblogs.com/zgh083417/  周阳  https://www.cnblogs.com/0516zy/
@@ -162,4 +162,4 @@ https://github.com/zghzy123456789/my-travel-plans
 
 61/塞班究竟在哪 虞旭https://www.cnblogs.com/xuba/   于世林 https://www.cnblogs.com/yushilin/
  四则运算https://github.com/xushao1519/my-travel-plans
- xiuyu评语：2020.4.26 仓库信息零乱，readme 文件未作修改
+ xiuyu check：2020.4.26 仓库信息零乱，readme 文件未作修改
