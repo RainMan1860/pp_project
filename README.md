@@ -148,7 +148,7 @@ https://github.com/Deep311/CellGame.git
 https://github.com/zghzy123456789/my-travel-plans
 
 57/LAKERS队 程祥https://www.cnblogs.com/cheng123-/ 陆虎 https://www.cnblogs.com/luhu/ 生命游戏
-https://github.com/cheng-xiang-star/cheng.git
+https://github.com/cheng-xiang-star/cheng.git  xiuyu 2020.4.26 check ,仓库没有代码
 
 58/江苏电视台 方振响 https://www.cnblogs.com/fangzhenxiang/  王宁 https://home.cnblogs.com/u/wangningshark/ 四则运算
 https://github.com/bigApple00/four-types-compute
