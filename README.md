@@ -126,7 +126,7 @@ This is project information  for 2020 spring course software engineering
 
 
 50/霸王双轮 孙浩 https://www.cnblogs.com/saitamawdnmd/  江兴 https://www.cnblogs.com/Jiangxing123/  四则运算
-https://github.com/saitama1999/pp_project.git
+https://github.com/saitama1999/Sun1.git
 
 
 51/czqdad队 董纬   https://www.cnblogs.com/dongwei123/    彭小炜 https://www.cnblogs.com/zxtzszyz/   四则运算 https://github.com/pxw3170701339/pp_project.git
